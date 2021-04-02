@@ -21,3 +21,4 @@
  
  
  Github Profile Readme
+Bazı Kısımlara kendi github isminizi vs. girersiniz <3

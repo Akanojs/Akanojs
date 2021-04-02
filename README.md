@@ -13,3 +13,4 @@
   <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akanojs&show_icons=true&theme=dark&hide_border=true" width="%100" height="100%">
 
+<img src="https://tenor.com/view/levi-s4-levi-ackerman-levi-levi-season4-aot-s4-gif-20084791" widht="%75" height"100px">

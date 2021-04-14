@@ -1,6 +1,6 @@
 ### Welcome To My Profile 👋
 
-![gif](https://media.discordapp.net/attachments/608711485849337856/824303758040236063/Vanda88.gif)
+![gif](https://cdn.discordapp.com/attachments/810793117745283132/832042114728067073/1799761.png)
 
 <a href="https://discord.com/users/798615218330402856" target="_blank"><img src="https://shields.io/badge/Akâno-111111.svg?&style=for-the-badge&logo=discord"></a>
   <a href="https://github.com/Akanojs" target="_blank"><img src="https://shields.io/badge/Akanojs-111111.svg?&style=for-the-badge&logo=github"></a>

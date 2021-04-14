@@ -11,15 +11,4 @@
 ![Akanojs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akanojs&theme=dark&show_icons=true)
   <br>
   
-![Akano](https://github-readme-stats.vercel.app/api/top-langs/?username=Akanojs&theme=dark&hide_border=true&layout=compact)
-
-
  
-
-<details> 
-  <summary> 🏆 <b>My trophy stats so far</b>: </summary>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkumail1" alt="mkumail1" /></a></p>
-</details>
- 
-
-

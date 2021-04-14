@@ -9,7 +9,7 @@
 
 
 <a href="https://github.com/Akanojs/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Akano's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Akanojs&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Akano's github stats" />
 </a>
 
 

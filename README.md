@@ -8,7 +8,7 @@
 </div> 
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Akanojs&show_icons=true&theme=synthwave_border=true" width="%100" height="150px">
+![Akanojs's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akanojs&theme=dark&show_icons=true)
   <br>
   
 ![Akano](https://github-readme-stats.vercel.app/api/top-langs/?username=Akanojs&theme=dark&hide_border=true&layout=compact)

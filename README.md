@@ -1,6 +1,6 @@
 ### Welcome To My Profile 👋
 
-![AkanoGif](https://cdn.discordapp.com/attachments/810793117745283132/832042560914325564/c6bf841e3c00072e01d6872e3e0dd142.gif)
+![AkanoGif](https://c.tenor.com/wRXUh9q5sZIAAAAM/no-panda.gif)
 
 <a href="https://discord.com/users/798615218330402856" target="_blank"><img src="https://shields.io/badge/Akâno-111111.svg?&style=for-the-badge&logo=discord"></a>
   <a href="https://github.com/Akanojs" target="_blank"><img src="https://shields.io/badge/Akanojs-111111.svg?&style=for-the-badge&logo=github"></a>

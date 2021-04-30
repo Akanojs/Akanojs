@@ -1,4 +1,4 @@
-### Welcome To My Profile 👋
+### <h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 ![AkanoGif](https://media.discordapp.net/attachments/608711485849337856/831169413566693486/gif_12.gif)
 

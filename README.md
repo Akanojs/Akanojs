@@ -1,4 +1,4 @@
-### <h2 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+### <h2 align="center">Hi there, I'm Arda - aka Akano <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
 
 <p align="center">
 <h4 align="center"></h4>

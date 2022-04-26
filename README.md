@@ -5,9 +5,9 @@
 <p align="center">
 
 
-<a href="https://discord.com/users/798615218330402856" target="_blank"><img src="https://shields.io/badge/Akâno-111111.svg?&style=for-the-badge&logo=discord"></a>
+<a href="https://discord.com/users/402186512093020161" target="_blank"><img src="https://shields.io/badge/Akâno-111111.svg?&style=for-the-badge&logo=discord"></a>
 <a href="https://github.com/Akanojs" target="_blank"><img src="https://shields.io/badge/Akanojs-111111.svg?&style=for-the-badge&logo=github"></a>
-<a href="https://discord.gg/XVj6mx6XU7" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
+<a href="https://discord.gg/cp3gJNmU" target="_blank"><img src="https://shields.io/badge/My Discord Server-111111.svg?&style=for-the-badge"></a>
 </div> 
 
 
